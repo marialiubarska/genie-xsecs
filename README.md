@@ -1,1 +1,1 @@
-# genie-xsecs
+# GENIE DIS cross sections
